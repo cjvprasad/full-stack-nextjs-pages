@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "To Kill a Mockingbird",
+    "genre": "Fiction",
+    "author": "Harper Lee"
+  },
+  { "id": 2, "name": "1984", "genre": "Fiction", "author": "George Orwell" },
+  {
+    "id": 3,
+    "name": "The Great Gatsby",
+    "genre": "Fiction",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "name": "Dune",
+    "genre": "Science Fiction",
+    "author": "Frank Herbert",
+    "id": 1701687836184
+  }
+]
